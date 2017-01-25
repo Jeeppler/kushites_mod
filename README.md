@@ -1,4 +1,4 @@
-# Kushite Mod
+# Kushites Mod
 
 The Kushite Mod introduces a new civilization to the Open Source real time strategy game [0 A.D](https://play0ad.com/). The Kushites or better known as the Kingdom of Kush was a powerful acient african empire. In popular culture there are most known for their excellent archers the: Nubian Bowmans. 
 
