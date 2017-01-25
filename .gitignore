@@ -1,0 +1,126 @@
+## Core latex/pdflatex auxiliary files:
+docs/build/*.aux
+docs/build/*.lof
+docs/build/*.log
+docs/build/*.lot
+docs/build/*.fls
+docs/build/*.out
+docs/build/*.toc
+
+## Intermediate documents:
+docs/build/*.dvi
+*-converted-to.*
+# these rules might exclude image files for figures etc.
+# docs/build/*.ps
+# docs/build/*.eps
+# docs/build/*.pdf
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+docs/build/*.bbl
+docs/build/*.bcf
+docs/build/*.blg
+*-blx.aux
+*-blx.bib
+docs/build/*.brf
+docs/build/*.run.xml
+
+## Build tool auxiliary files:
+docs/build/*.fdb_latexmk
+docs/build/*.synctex
+docs/build/*.synctex.gz
+docs/build/*.synctex.gz(busy)
+docs/build/*.pdfsync
+
+## Auxiliary and intermediate files from other packages:
+
+# algorithms
+docs/build/*.alg
+docs/build/*.loa
+
+# achemso
+acs-docs/build/*.bib
+
+# amsthm
+docs/build/*.thm
+
+# beamer
+docs/build/*.nav
+docs/build/*.snm
+docs/build/*.vrb
+
+#(e)ledmac/(e)ledpar
+docs/build/*.end
+docs/build/*.[1-9]
+docs/build/*.[1-9][0-9]
+docs/build/*.[1-9][0-9][0-9]
+docs/build/*.[1-9]R
+docs/build/*.[1-9][0-9]R
+docs/build/*.[1-9][0-9][0-9]R
+docs/build/*.eledsec[1-9]
+docs/build/*.eledsec[1-9]R
+docs/build/*.eledsec[1-9][0-9]
+docs/build/*.eledsec[1-9][0-9]R
+docs/build/*.eledsec[1-9][0-9][0-9]
+docs/build/*.eledsec[1-9][0-9][0-9]R
+
+# glossaries
+docs/build/*.acn
+docs/build/*.acr
+docs/build/*.glg
+docs/build/*.glo
+docs/build/*.gls
+
+# gnuplottex
+*-gnuplottex-*
+
+# hyperref
+docs/build/*.brf
+
+# knitr
+*-concordance.tex
+docs/build/*.tikz
+*-tikzDictionary
+
+# listings
+docs/build/*.lol
+
+# makeidx
+docs/build/*.idx
+docs/build/*.ilg
+docs/build/*.ind
+docs/build/*.ist
+
+# minitoc
+docs/build/*.maf
+docs/build/*.mtc
+docs/build/*.mtc0
+
+# minted
+_minted*
+docs/build/*.pyg
+
+# morewrites
+docs/build/*.mw
+
+# nomencl
+docs/build/*.nlo
+
+# sagetex
+docs/build/*.sagetex.sage
+docs/build/*.sagetex.py
+docs/build/*.sagetex.scmd
+
+# sympy
+docs/build/*.sout
+docs/build/*.sympy
+sympy-plots-for-docs/build/*.tex/
+
+# todonotes
+docs/build/*.tdo
+
+# xindy
+docs/build/*.xdy
+
+# WinEdt
+docs/build/*.bak
+docs/build/*.sav
