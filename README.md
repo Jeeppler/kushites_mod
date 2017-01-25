@@ -1,10 +1,10 @@
 # Kushites Mod
 
-The Kushite Mod introduces a new civilization to the Open Source real time strategy game [0 A.D](https://play0ad.com/). The Kushites or better known as the Kingdom of Kush was a powerful acient african empire. In popular culture there are most known for their excellent archers the: Nubian Bowmans. 
+The Kushite Mod introduces a brand new civilization to the Open Source real time strategy game [0 A.D](https://play0ad.com/). The Kingdom of Kush was one of the most powerful African empires of classical antiquity. In popular culture they are most known for their excellent archers the: Nubian Bowmen. Builders of pyramids and temples, cities and fortified strongholds, the Kushites built a trade empire, backed by strong armies lead by powerful Kings and Queens.   
 
-This Mod focuses on the time around 200 B.C and 200 A.D. During this time periode the captial of the Kushites was Meroë and there enemies have been Ptolemaic Greek in Egypt and later the Roman Empire. Meroë and the Kingdom of Kush would today be located in Sudan.
+This Mod focuses on the time frame between 590 B.C. and 330 A.D. During this time, the captial of the Kushites was originally Napata, and then transferred to the more southern Meroë. Their traditional enemies have been the Persians, Ptolemaic Egypt and later even the Roman Empire, as well as numerous nomadic and semi-nomadic desert tribes and other southern enemies. Meroë and the Kingdom of Kush were located in modern day Sudan.
 
-Development status: Research phase (begining)
+Development status: Research phase (beginning)
 
 Resources: 
 - [Specification of the Kushit Mod](docs/build/specification.pdf)
