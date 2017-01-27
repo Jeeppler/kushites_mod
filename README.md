@@ -18,4 +18,4 @@ Links:
 
 [de]
 
-![img](http://imgur.com/5ZZW1ov)
+![img](http://imgur.com/5ZZW1ov.png)
