@@ -1,8 +1,8 @@
 # The Kushites [0 A.D. Mod]
 
-The Kushites Mod introduces a brand new civilization to the Open Source real time strategy game, [0 A.D](https://play0ad.com/). The Kingdom of Kush was one of the most powerful African empires of classical antiquity. In popular culture they are most known for their excellent archers the: Nubian Bowmen. Builders of pyramids and temples, cities and fortified strongholds, the Kushites built a trade empire, backed by strong armies lead by powerful kings and queens.   
+The Kushite Mod introduces a brand new civilization to the Open Source real time strategy game, [0 A.D](https://play0ad.com/). The Kingdom of Kush was one of the most powerful African empires in classical antiquity. Located in present-day Sudan, it lay on the intersection of trade routes connecting the interior of the continent with the Mediterannean world. Builders of pyramids and temples, cities and fortified strongholds, the Kushites built a trade empire, backed by strong armies, lead by powerful kings and queens. In popular culture, they are most known for their excellent archers, the Nubian Bowmen.    
 
-This Mod focuses on the time frame between 590 B.C. and 330 A.D. During this time, the captial of the Kushites was originally Napata, and then transferred to the more southern Meroë. Their traditional enemies have been the Persians, Ptolemaic Egypt and later even the Roman Empire, as well as numerous nomadic and semi-nomadic desert tribes and other southern enemies. Meroë and the Kingdom of Kush were located in modern day Sudan.
+This Mod focuses on the time frame between 590 B.C. and 330 A.D. During this period, the Kushite capital shifted from Napata to the more southern Meroe. Facing Persian invasions, military engagements with Ptolemaic Egypt and a 5 year war with Rome, this period features many interesting events. Due to incessant raids from desert tribes, increasing aggression from the warlike Noba, and two Axumite invasions, the power of Meroe eventually waned, and by 350AD the last king was burried in its royal cemetaries. The Kingdom of Kush offers an exciting and often forgotten chapter in history.  
 
 Development status: Research phase (beginning)
 
@@ -17,3 +17,5 @@ Links:
 [es]
 
 [de]
+
+![img](http://imgur.com/5ZZW1ov.jpg)
