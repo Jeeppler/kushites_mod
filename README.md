@@ -18,4 +18,4 @@ Links:
 
 [de]
 
-[Meroe, capital of the Kushites](docs/img/13b Reconstruction of Meroe from The Capital of Kush by Rebecca J Bradley.jpg)
+![img](http://imgur.com/5ZZW1ov)
