@@ -25,3 +25,5 @@ Le Mod de Kushite introduit une nouvelle civilisation en le jeu de stratégie en
 Der Kushite Mod erweitert das Open Source Echtzeit-Strategiespiel [0 A.D](https://play0ad.com/) um eine neue Zivlisation.
 
 [nl]
+
+De Koesjietische Mod introduceert een splinternieuwe beschaving in [0A.D.](https://play0ad.com/), een open source, real time strategy spel. 
