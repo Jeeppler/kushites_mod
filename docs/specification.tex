@@ -26,25 +26,28 @@ Buildings:
 \begin{itemize}
 	\item Temple
 	\item Civic Center
-	\item Storage Depot $\rightarrow$ TODO Research \& Sketch
+	\item Storehouse $\rightarrow$ TODO Research \& Sketch
 	\item House
 	\item Blacksmith $\rightarrow$ TODO Sketch
-	\item Fields
+	\item Field
 	\item Farmstead
-	\item Stable
+	\item Corral
 	%\item (TODO Something like a Mill)
-	\item Marketplace $\rightarrow$ TODO Sketch
-	\item Trader (land)
-	\item Fishing Boat $\rightarrow$ TODO Research (papyrus or wooden?) \& Sketch
-	\item Light Warship
-	\item Medium Warship
+	\item Market $\rightarrow$ TODO Sketch
 	\item Dock
-	\item Diplomacy Center $\rightarrow$ TODO Research (where/how did they hire mercenaries?)
-	\item Garrison/Barrack $\rightarrow$ TODO Research (how did they look like?)
+	\item Barracks $\rightarrow$ TODO Research (how did they look like?)
 	\item Fortress
-	\item Tower
-	\item Wall
+	\item Sentry Tower (Wooden Tower)
+	\item Defense Tower (Stone Tower)
+	\item Outpost $\rightarrow$ TODO Research (how did they look like?)
+	\item Small Wall (Mostly wooden, but we could use a brick wall instead)
+	\item City Wall + City Gate (Stone Wall)
 	\item Wonder
+	\item Special Structures
+	\begin{itemize}
+		\item Embassy $\rightarrow$ TODO Research (where/how did they hire mercenaries? Do we need one?)
+		\item Waterwheel [Saqiya (Sakia)] $\rightarrow$ TODO Do we need one? Farming Bonus?
+	\end{itemize}
 \end{itemize}
 
 Units:
@@ -60,7 +63,18 @@ Units:
 		\item Battering Ram
 		\item Siege Tower
 	\end{itemize}
-	\item Elite Units
+	\item Naval Units
+	\begin{itemize}
+		\item Fishing Boat $\rightarrow$ TODO Research (papyrus or wooden?) \& Sketch
+		\item Light Warship
+		\item Medium Warship
+	\end{itemize}
+	\item Trader
+	\begin{itemize}
+		\item Trader (land)
+		\item Trader (water)
+	\end{itemize}
+	\item Champion Units
 	\begin{itemize}
 		\item Nubian Bowmen
 		\item TODO other elite units
@@ -69,7 +83,7 @@ Units:
 	\begin{itemize}
 		\item Arikhankharer TODO Research \& Decision
 		\begin{itemize}
-			\item With the ability to recruit 1 to 5 dogs which automatically guard him (like in AOEIII) would be an interesting idea. Because of the dogs, any unit within his area of influence would get a defense bonus.  
+			\item With the ability to recruit 1 to 5 dogs which automatically guard him (like in AoE III) would be an interesting idea. Because of the dogs, any unit within his area of influence would get a defense bonus.  
 		\end{itemize}
 	\end{itemize}
 \end{itemize}
@@ -89,6 +103,7 @@ Agriculture:
 	\begin{itemize}
 		\item Sanga Cattle
 		\item Goat
+		\item Sheep
 	\end{itemize}
 \end{itemize}
 Special Features:
@@ -97,17 +112,59 @@ Special Features:
 	\item Nubian Bowmen shoot poisoned arrows
 \end{itemize}
 
-\section{Buildings}
+Fauna:
 
-\subsection{Temple}
+\begin{itemize}
+	\item Date trees as food resource
+\end{itemize}
+
+\section{Buildings}
 
 \subsection{Civic Center}
 
-\subsection{Storage Depot}
+Of all the buildings, civic center should be based on the typical Kushite palaces, like the one at Karanog (see \ref{fig:karanog_governor_palace}). These palaces were administrative centers, storehouses for food and luxery products/trade items, and served as living quarters to governors. This is where dignitaries would be received, and policies would be made. Literally town centers! Maybe reduce the height from 3 stories to 2 stories. Some miniature obelisks or stone inscriptions decorating the front. A set of pillars with papyrus shaped capitols at the entrance, with a single stone slab on top, to make it look inviting. 
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/civic_center/governor_palace_karanog}\label{fig:karanog_governor_palace}
+	\caption{A small governors' palace in Karanog, lower Nubia. This building features typical Nubian architecture, with vaulted ceilings, open courtyard and square design. Small windows and thick walls on the lower floor hint at a defensive purpose. A lavishly decorated 2nd floor served as the living space for the governor and his family "Fabricated by Christ Ray, in collaboration with David O'Connor and Stacey Olson, from plans an descriptions of the 1907 excavation"}
+\end{figure}
+
+\subsection{Farmstead}
+
+The model of a large Meroitic era, beehive structure at Wad Ben Naqa. Some claim it to be a granary (silo), and others a temple. At Gala Abu Ahmed, several similar, although seriously less monumental structures were excavated. The people of that excavation were pretty sure their structures were granaries. Grain would be added through a hole at the top with a tall ladder. It would subsequently be taken from an access hole at the bottom when needed. The silos at Abu Ahmed could have fed several hundred men for a year. Both the structures at Abu Ahmed and at Wad ben Naqa were plastered white on the outside. The structures are so architecturally unique. Their unique shape would be quite cool as a model for the farm building.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/farmstead/3d_reconstruction}
+	\caption{3d reconstruction of the Circular Building (WBN 50) at Wad Ben Naqa. Some claim it is a silo. Others say that with a diameter of 18meters and a height of 20 meters, it was too monumental to be a silo. An access ramp hints at its possible use as a shrine or temple. Access ramps are common in religious structures. }
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/farmstead/sketch_granaries_gala_abu_ahmed}
+	\caption{A model of one of the granaries at Gala Abu Ahmed. Sand stone foundation, and brick for its upper courses. Plastered with white lime plaster.}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/farmstead/3d_reconstruction_circular_building}
+	\caption{3d image of the remains of the "circular building" (WBN 50) at Wad Ben Naqa.}
+\end{figure}
+
+\subsection{Field}
+
+Short answer: Reuse the field from the main Game.
+
+\paragraph{Explanation:}
+
+Their fields shouldn’t necessarily look different from any other field in the game. They grew barley, wheat, millet, sorghum and cotton.
 
 \subsection{House}
 
-\paragraph{About the Common House \ref{fig:common_house}:} Looks quite Kushite. The large ceramic pot, fixed in the floor in the corner of the courtyard is very good. I saw pictures of that in archeological digs of Meroitic sites.
+\paragraph{About the Common House \ref{fig:common_house}:} Looks quite Kushite. The large ceramic pot, fixed in the floor in the corner of the courtyard is very good. I saw pictures of that in archeological digs of Meroitic sites.\\
+
+Each civ has a number of house models. Kush should also feature this variety. Based on the examples given, maybe 3 or 4 models can be made. For uniformity, they can all be plastered white, with similar geometric designs decorating the spaces around doors and windows. 
 
 \begin{figure}[H]
 	\centering
@@ -123,9 +180,59 @@ Special Features:
 	\caption{House Sketch by @Sundiata}\label{fig:house_sketch}
 \end{figure}
 
+\subsection{Temple}
+
+With the move to Meroe, a local South Nubian deity, known as Apedemak, rose to prominence. This lion headed god of war might have even eclipsed the worship of Amun. During the Meroitic period, many new temples were built, in Napata, Naqa, Wad Ben Naqa, Musawwarat es Sufra, Hamadab, Dangeil and other important centers. Usually to Amun or Apedemak, but also to Hathor and Isis, and some temples and shrines were also dedicated to lesser-known Nubian gods. Although stylistically still Egyptian, the floor plan of these temples was typically Kushite. 
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/temple/apedemak_temple}
+	\caption{A beautiful example of a temple to Apedemak, Musawwarat es Sufra}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/temple/apedemak_temple_profile}
+	\caption{Temple to Apedemak, the lion headed god of war, in Musawwarat es Sufra}
+\end{figure}
+
+\section{Wonder}
+
+The Meroitic pyramids would be a good wonder. They’re not awkwardly big, but still imposing enough, and built with an eastward facing chapel, they have an interesting architectural element.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/wonder/nubian_pyramids_original}
+	\caption{Pyramids from \url{http://www.thousandwonders.net/}}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/wonder/meroe-pyramids}
+	\caption{Pyramids front perspective from \url{http://bcarchaeology.com/}}
+\end{figure}
+
 \section{Units}
 
-\subsection{Chariot}
+\subsection{Trader (Land)}
+
+Donkeys were the favorite travel companion for Kushite traders. They seem to have liked these rather small, hardy desert animals a lot. Long after the introduction of horses and camels, donkeys remained popular, even today. They would just pack whatever is needed on their backs, and form small, to large caravans, for long or short distance travel. The trader himself might have ridden the front donkey. Alternatively, the Beja used camels to trade back and forth with Kushite territory.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/trader_land/petroglyphs_donkey_caravan}
+	\caption{Petroglyphs in Sudan, depicting a donkey caravan}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/trader_land/donkey_sudan}
+	\caption{Donkeys in Sudan}
+\end{figure}
+
+\section{Map}
+
+A Kushite map should be a dessert map. A large river (Nile)  should divide opponents from each other. On the left and right side of the river should be a small area of green land and trees. Date trees as food resource.
 
 \section{Common Misconception}
 
@@ -310,6 +417,66 @@ Napata was essentially a southern expression of classical Egyptian culture. In f
 
 Possibly prompted by increasing hostility from Egypt and the Persians to the north, the more southern Meroe became increasingly important. Another possible reason for the move south, is that the Napatan Kings of Kush were trying to brake from the authority of the cult of Amun, the foremost religious authority in Kush, also centered in Napata. By moving the royal capital to Meroe, the society was secularized, and the Kings enjoyed a greater freedom than before. This move was completed by the time of Arakamani, identified with “Ergamenes”, of Diodorus Siculus’ Bibliotheca Historica, in the early third century BCE. According to Diodorus, the priesthood of Amun had the power to order the death of a king. Ergamenes (Arakamani), was the first King to brake from this tradition, when the priests ordered his death. He moved on Napata, ordered the massacre of the priests, and moved the royal burial grounds to Meroe, where many of the iconic Meroitic pyramids were built. Diodorus states that his strong will came from his instruction in Greek philosophy, probably related to the rule of the Ptolemies in Egypt. Regardless of the changing relationship between the kings and the cult of Amun, the worship of Amun remained important throughout Kushite history. Temples to Amun continued to be built in to the third century A.D., and the cult was still present during the Christianization of Nubia in the 6th century A.D. 
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/temple_of_amun}
+	\caption{Remains of the temple to Amun, in Naqa. Built by Natakamani in the 1st century A.D.}
+\end{figure}
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/remains_colonnade_naqa}
+	\caption{The Remains of a colonnade in Naqa, depicting the god Bes.}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/kandake_religious_procession}
+	\caption{A Kandake leading a religious procession in one of the temples in Napata}
+\end{figure}
+
+With the move to Meroe, a local South Nubian deity, known as Apedemak, rose to prominence. This lion headed god of war might have even eclipsed the worship of Amun. During the Meroitic period, many new temples were built, in Napata, Naqa, Wad Ben Naqa, Musawwarat es Sufra, Hamadab, Dangeil and other important centers. Usually to Amun or Apedemak, but also to Hathor and Isis, and some temples and shrines were also dedicated to lesser-known Nubian gods. Although stylistically still Egyptian, the floor plan of these temples was typically Kushite.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/temple/apedemak_temple_profile}
+	\caption{Temple to Apedemak, the lion headed god of war, in Musawwarat es Sufra}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/temple/apedemak_temple}
+	\caption{A beautiful example of a temple to Apedemak, Musawwarat es Sufra}
+\end{figure}
+
+The Meriotic period also saw the infiltration of Indian and Persian influences (in depictions of deities, imported textiles), Greco Roman (in the form of luxery imports, stylistic additions to temples and monuments, or the Roman bath-house in the Royal City in Meroe and lavish Mediterranean style decorations in elite residences) and Ptolemaic (in the form of Greek philosophy, military technology and import of luxery goods, like wine). The Meroitic period also saw the embracement of typically Sub Saharan African ethno-cultural elements. They still, more or less, depict themselves in Egyptian styles, but with typically black African physical features. Intense contact with often hostile and nomadic or semi-nomadic desert tribes, as well as other more southern tribes, and their subjugation to Kushite rule and incorporation in to the state, was necessary to keep trade routes open. Trade routes like those connecting Meroe to the Mediterranean, and the Red Sea coast (Eritrean Sea), where it was connected to the Indian Ocean trade. Meroe slowly grew in to a metropolis.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/plan_excavated_structures_meroe}
+	\caption{A plan of the main excavated structures in Meroe, including the "Royal City", temples to Amun, Apedemak and Isis, as well as other shrines. The large heaps in between the temples in front of the Royal City are city mounds. The remains of sprawling residential areas.}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/13b_Reconstruction_of_Meroe_from_The_Capital_of_Kush_by_Rebecca_J_Bradley}
+	\caption{A historical reconstruction of the city of Meroe, around 100 A.D. From "The Capital of Kush" by Rebecca J Bradley.}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/roman_kiosk}
+	\caption{The Naqa kiosk, aptly nicknamed the Roman Kiosk, because of its Greco-Roman features. Corinthian capitols and Roman, stone cut arched windows attest to the far flung influence in this structure.}
+\end{figure}
+
+The Meroe period saw a number of interesting indigenous developments, such as the “Nubian vault” and smaller domes. Palaces as well as common residential buildings were often constructed with vaulted ceilings made of brick. This was especially useful in an arid climate were trees aren’t large or plentiful enough to provide roofing material. Large, multistoried square palaces, built over vaulted cellars became common. Thick walls and small (arched) windows on the ground floor of these palaces hint at a secondary defensive purpose.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{img/civic_center/governor_palace_karanog}
+	\caption{A small governors' palace in Karanog, lower Nubia. This building features typical Nubian architecture, with vaulted ceilings, open courtyard and square design. Small windows and thick walls on the lower floor hint at a defensive purpose. A lavishly decorated 2nd floor served as the living space for the governor and his family "Fabricated by Christ Ray, in collaboration with David O'Connor and Stacey Olson, from plans an descriptions of the 1907 excavation"}
+\end{figure}
+
+Regular houses were often compound structures, made up of rectangular blocks, arranged around private courtyards. Either using vaulted ceilings, or flat plastered roofs, supported by thick palm logs, making use of columns for extra support. Extra floors were added for expansion, as families grew, and flat roofs often had stairways leading up to them. Houses were built with sundried mud brick, or fired red bricks. Wealthy households and official buildings made use of cut stone for doorways and windows. Usually these brick buildings received a cover of fine white, lime plastering, creating a smooth white surface, sometimes decorated with colored, geometric motives, or religious symbols, especially around the doors and windows. An important note is that contemporary Nubian homes and settlement patterns, around Aswan and North Sudan, are strikingly similar to those of the Meroitic period, and even the earlier Kerma period. 
 
 \end{document}
