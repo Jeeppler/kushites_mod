@@ -26,4 +26,4 @@ Der Kushite Mod erweitert das Open Source Echtzeit-Strategiespiel [0 A.D.](https
 
 [nl]
 
-De Koesjietische Mod introduceert een splinternieuwe beschaving bij [0 A.D.](https://play0ad.com/), een open source, real time strategy spel. 
+De Koesjietische Mod stelt een splinternieuwe beschaving voor aan [0 A.D.](https://play0ad.com/), een open source, real time strategy spel. 
