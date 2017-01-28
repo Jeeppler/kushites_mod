@@ -16,14 +16,14 @@ Links:
 
 [fr]
 
-Le Mod de Kushite introduit une nouvelle civilisation en le jeu de stratégie en temps réel open source: [0 A.D](https://play0ad.com/).
+Le Mod de Kushite introduit une nouvelle civilisation en le jeu de stratégie en temps réel open source: [0 A.D.](https://play0ad.com/).
 
 [es]
 
 [de]
 
-Der Kushite Mod erweitert das Open Source Echtzeit-Strategiespiel [0 A.D](https://play0ad.com/) um eine neue Zivlisation.
+Der Kushite Mod erweitert das Open Source Echtzeit-Strategiespiel [0 A.D.](https://play0ad.com/) um eine neue Zivlisation.
 
 [nl]
 
-De Koesjietische Mod introduceert een splinternieuwe beschaving bij [0A.D.](https://play0ad.com/), een open source, real time strategy spel. 
+De Koesjietische Mod introduceert een splinternieuwe beschaving bij [0 A.D.](https://play0ad.com/), een open source, real time strategy spel. 
