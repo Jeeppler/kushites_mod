@@ -9,7 +9,7 @@ This Mod focuses on the time frame between 590 B.C. and 330 A.D. During this per
 Development status: Research phase and Modelling (beginning)
 
 Resources:
-- [Specification of the Kushites Mod](docs/build/specification.pdf)
+- [Specification of the Kushites Mod](https://github.com/Jeeppler/kushites_mod/raw/master/docs/build/specification.pdf)
 
 Links:
 - [The Kingdom of Kush: A proper introduction [Illustrated]](https://wildfiregames.com/forum/index.php?/topic/21602-the-kingdom-of-kush-a-proper-introduction-illustrated)
