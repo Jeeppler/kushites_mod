@@ -16,7 +16,7 @@ Links:
 
 [fr]
 
-Le Mod de Kushite introduit une nouvelle civilisation en le jeu de stratégie en temps réel open source: [0 A.D.](https://play0ad.com/).
+Le Mod de Kushite introduit une nouvelle civilisation en le jeu de stratégie en temps réel open source: [0 A.D.](https://play0ad.com/)
 
 [es]
 
