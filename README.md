@@ -20,6 +20,8 @@ Le Mod de Kushite introduit une nouvelle civilisation en le jeu de stratégie en
 
 [es]
 
+El Mod de los kushitas  introduce una nueva civilización al juego Open source de  estrategia en tiempo real . 0 A.D
+
 [de]
 
 Der Kushite Mod erweitert das Open Source Echtzeit-Strategiespiel [0 A.D.](https://play0ad.com/) um eine neue Zivlisation.
