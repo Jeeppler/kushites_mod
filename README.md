@@ -14,17 +14,21 @@ Resources:
 Links:
 - [The Kingdom of Kush: A proper introduction [Illustrated]](https://wildfiregames.com/forum/index.php?/topic/21602-the-kingdom-of-kush-a-proper-introduction-illustrated)
 
+[de]
+
+Der Kushite Mod erweitert das Open Source Echtzeit-Strategiespiel [0 A.D.](https://play0ad.com/) um eine neue Zivlisation.
+
+[es]
+
+El Mod de los kushitas  introduce una nueva civilización al juego Open source de  estrategia en tiempo real . [0 A.D.](https://play0ad.com/)
+
 [fr]
 
 Le Mod de Kushite introduit une nouvelle civilisation en le jeu de stratégie en temps réel open source: [0 A.D.](https://play0ad.com/)
 
-[es]
+[it]
 
-El Mod de los kushitas  introduce una nueva civilización al juego Open source de  estrategia en tiempo real . 0 A.D
-
-[de]
-
-Der Kushite Mod erweitert das Open Source Echtzeit-Strategiespiel [0 A.D.](https://play0ad.com/) um eine neue Zivlisation.
+Il Mod Kushita introduce una nuova civiltà in [0 A.D.](https://play0ad.com/), videogioco Open Source strategico in tempo reale.
 
 [nl]
 
